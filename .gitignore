@@ -1,0 +1,7 @@
+.gradle
+build.info.sh
+out
+build
+
+.idea
+*.iml
